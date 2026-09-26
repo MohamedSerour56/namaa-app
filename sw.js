@@ -1,4 +1,4 @@
-const CACHE="namaa-shell-v1";
+const CACHE="namaa-shell-v2";
 const BASE=self.location.pathname.replace(/\/sw\.js$/,"");
 
 self.addEventListener("install",event=>{
